@@ -1,6 +1,6 @@
 # 03 Projeto Strata
 
-Curso de Web Fundamentos: HTML5, CSS3 e Javascript + 5 Projetos pela Udemy
+Web Fundamentos: HTML5, CSS3 e Javascript + 5 Projetos do Serfrontend cursos pela Udemy
 
 Terceiro projeto do curso feito em HTML e CSS
 
@@ -11,4 +11,4 @@ todos os navegadores, formatação de marcação padrão, as propriedades displa
 porcentagens para criar grids para especificar o tamanho das colunas, como seções de galeria com propriedades 
 flutuantes. Essa parte eu achei a mais complicada de fazer pelo raciocínio e fazer ajustes com base em cada sessão.
 
-Confira o resultado -> https://strata-project.netlify.app/
+Confira o resultado -> https://suelenmarin.github.io/ProjetoStrata-Serfrontend/
