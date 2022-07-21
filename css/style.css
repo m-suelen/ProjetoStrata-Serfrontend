@@ -241,7 +241,6 @@ textarea{
 }
 .recent-works-card a{
     display: block;
-    margin: 10px;
     position: relative;
 }
 .recent-works-card a img{
@@ -257,6 +256,7 @@ textarea{
     height: 100%;
     background: transparent;
     transition: all .5s;
+    border-radius: 10px;
 }
 .recent-works-card a:hover:before{
     background: rgba(0,0,0,.5); 
