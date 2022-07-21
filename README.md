@@ -10,3 +10,5 @@ botões, tabelas, etc. bem como tags semânticas e formatação. CSS "normalize"
 todos os navegadores, formatação de marcação padrão, as propriedades display para elementos em linha e uso de 
 porcentagens para criar grids para especificar o tamanho das colunas, como seções de galeria com propriedades 
 flutuantes. Essa parte eu achei a mais complicada de fazer pelo raciocínio e fazer ajustes com base em cada sessão.
+
+Confira o resultado -> https://strata-project.netlify.app/
