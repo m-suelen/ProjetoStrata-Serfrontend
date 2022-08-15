@@ -7,4 +7,3 @@ Terceiro projeto do curso feito em HTML e CSS
 Neste projeto, foi abordado conceitos aprendidos nas aulas. Estrutura de layout, imagens, links, formulários, ícones, listas, botões, tabelas, etc. bem como tags semânticas e formatação. A parte mais complicada foi criar "grids" com a propriedade float e o uso de porcentagens para especificar o tamanho das colunas e fazer ajustes com base em cada sessão. Procurei rever os conceitos ensinados e a ajuda do professor.
 
 
-Confira o resultado -> https://suelenmarin.github.io/ProjetoStrata-Serfrontend/
